@@ -1,0 +1,76 @@
+body {
+	background-color: #bffff9;
+}
+
+p {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+b {
+	font-family: 'Play';
+}
+
+h1 {
+	font-family: 'Brush Script MT', cursive;
+}
+
+h2 {
+	font-family: 'Goldman';
+	font-size: 250%;
+}
+
+h4 {
+	font-size: 150%;
+	font-family: 'Trebuchet MS', sans-serif;
+}
+
+.fa {  
+  padding: 10px;  
+  text-align: center;  
+  margin: 5px 2px;  
+  font-size: 20px;  
+  width: 25px;  
+}
+  
+.fa-facebook {  
+  background: #3B5998;  
+  color: white;  
+}
+
+.headbar {
+	width: 90%;
+	height: 100px;
+	margin: auto;
+	border: solid 5px #91bdff;
+	background-color: #deebff;
+	padding: 5px;
+}
+
+.navbar {
+	width: 90%;
+	height: 50px;
+	margin: auto;
+	border: solid 5px #ededed;
+	background-color: #e6e6e6;
+	padding: 5px;
+}
+
+.baroptions {
+	float: right;
+	width: 30%; 
+	font-size: 125%;
+}
+
+.barlinks {
+	color: black;
+	text-decoration: none;
+}
+
+.body_div {
+	margin: auto; 
+	margin-bottom: 20px;
+	border: solid 5px #91bdff;
+	border-radius: 5px;
+	background-color: #deebff;
+	padding: 10px;
+}

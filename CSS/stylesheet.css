@@ -57,7 +57,7 @@ h4 {
 }
 
 .baroptions {
-	float: right;
+	margin: auto;
 	width: 40%; 
 	font-size: 125%;
 }

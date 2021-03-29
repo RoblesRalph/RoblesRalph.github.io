@@ -1,2 +1,2 @@
 User-agent: *
-Disallow: /Profile.html/
+Disallow: /Profile.html
